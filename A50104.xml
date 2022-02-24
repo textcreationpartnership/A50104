@@ -1,0 +1,357 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse of friendship preached at the Wiltshire-feast, in St. Mary Le-Bow-Church December the 1st, 1684 / by Samuel Masters ...</title>
+            <author>Masters, Samuel, 1645 or 6-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50104</idno>
+            <idno type="STC">Wing M1069</idno>
+            <idno type="STC">ESTC R36493</idno>
+            <idno type="EEBO-CITATION">15703581</idno>
+            <idno type="OCLC">ocm 15703581</idno>
+            <idno type="VID">104470</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104470)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:63)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse of friendship preached at the Wiltshire-feast, in St. Mary Le-Bow-Church December the 1st, 1684 / by Samuel Masters ...</title>
+                  <author>Masters, Samuel, 1645 or 6-1693.</author>
+               </titleStmt>
+               <extent>26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.B. for Marm. Foster and Awnsham Churchill ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXV [1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XVII, 17 --  Sermons.</term>
+               <term>Friendship --  Religious aspects --  Christianity.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104470:1"/>
+            <pb facs="tcp:104470:1" rendition="simple:additions"/>
+            <p>A DISCOURSE OF FRIENDSHIP, PREACHED at the Wiltſhire-Feaſt, IN St. <hi>Mary Le-Bow</hi>-Church De<g ref="char:EOLhyphen"/>cember the 1ſt. 1684.</p>
+            <p>
+               <hi>By</hi> Samuel Maſters <hi>B. D. Preacher to the Hoſpi<g ref="char:EOLhyphen"/>tal and Precinct of</hi> Bridwell <hi>in</hi> London.</p>
+            <q>
+               <bibl>
+                  <hi>6 Eccleſ. 14, 15, 16.</hi>
+               </bibl>
+               <p>A faithful Friend is a strong defence, and he that hath found ſuch an one, hath found a Treaſure.</p>
+               <p>Nothing doth Countervail a faithful Friend, and his ex<g ref="char:EOLhyphen"/>cellency is in valuable.</p>
+               <p>A faithful Friend is the Medicine of Life, and they that fear the Lord ſhall find him.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. B.</hi> for <hi>Marm. Foſter</hi> and <hi>Awnſham Churchill,</hi> and are to be ſold at the <hi>Black Swan</hi> at <hi>Amen-Corner.</hi> MDCLXXXV.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:104470:2"/>
+            <pb facs="tcp:104470:2"/>
+            <head>To the WORTHY STEWARDS OF THE Wiltſhire-Feaſt,
+<list>
+                  <item>Mr. <hi>John Eyles</hi>
+                  </item>
+                  <item>Mr. <hi>Richard Holford</hi>
+                  </item>
+                  <item>Mr. <hi>Paul Methwen</hi>
+                  </item>
+                  <item>Mr. <hi>William Gardiner</hi>
+                  </item>
+                  <item>Mr. <hi>Henry Lambe</hi>
+                  </item>
+                  <item>Mr. <hi>Thomas Phipp.</hi>
+                  </item>
+                  <item>Mr. <hi>John Slater</hi>
+                  </item>
+                  <item>Mr. <hi>John Rutland</hi>
+                  </item>
+                  <item>Mr. <hi>John wayte</hi>
+                  </item>
+                  <item>Mr. <hi>Edward Smith</hi>
+                  </item>
+               </list> AND To the reſt of my Countrymen of <hi>WILTSHIRE.</hi>
+            </head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>WHen I was firſt deſir'd, by ſome of you, to publiſh this Diſcourſe, I took it but for a customary Complement of reſpect, to which I intended to make no farther an<g ref="char:EOLhyphen"/>ſwer,
+<pb facs="tcp:104470:3"/>than my thankful acknowledg<g ref="char:EOLhyphen"/>ment; but the ſame requeſt being ſince reinforc'd by ſome others, who might plead, that Friendſhip which the <hi>Ser<g ref="char:EOLhyphen"/>mon</hi> recommends, I was obliged to com<g ref="char:EOLhyphen"/>ply; many Arg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments occurr'd to diſwade we, b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t I tho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght of this one for my encouragement, that in croſſing my own humour ſo much to gratifie my Friends, I ſhould give one inſtance of practiſing what I Preach'd, and perchance gain the reputation of being one who would on all good occaſions approve himſelf</p>
+            <closer>
+               <signed>Your <hi>Faithful Friend, and humble Servant</hi> SAM<g ref="char:V">Ʋ</g>EL MASTERS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="5" facs="tcp:104470:3"/>
+            <head>A DISCOURSE OF FRIENDSHIP, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Proverbs 17.17.</hi>
+                  </bibl>
+                  <p>A true Friend will love at all times, and a Brother is born for Adverſity.</p>
+               </q>
+            </epigraph>
+            <p>WHen I conſider that Nature deſigned us to be Friends, by making us Country<g ref="char:EOLhyphen"/>men, and that the chief deſign of our preſent meeting is to enlarge and indear
+<pb facs="tcp:104470:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:104470:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:104470:5"/>our mutual Friendſhips; I cannot think of a Subject, which may yield a more ſuitable Entertainment than the excel<g ref="char:EOLhyphen"/>lent Vertue of Friendſhip, which tho ſeldom diſcourſed of from the Pulpit, is yet no inconſiderable Part of our Reli<g ref="char:EOLhyphen"/>gion; and though very rare to be met with in the World, is certainly a very great advantage, delight and ornament of human converſation.</p>
+            <p>In purſuance of this deſign, I here preſent you the fair and lively Pourtrai<g ref="char:EOLhyphen"/>cture of a true Friend, drawn by the moſt skilful hand, in this divine Apho<g ref="char:EOLhyphen"/>riſm of the Text, wherein we may ob<g ref="char:EOLhyphen"/>ſerve,</p>
+            <p n="1">1. The Eſſential Form or Principle of a Friend, which is Love, a true Friend will <hi>love.</hi>
+            </p>
+            <p n="2">2. His genuine Features or Properties which are chiefly theſe Two.
+<list>
+                  <item>1. An immutable conſtancy of af<g ref="char:EOLhyphen"/>fection, <hi>He will love at all times.</hi>
+                  </item>
+                  <item>2. A generous Faithfulneſs in the moſt needful time of trouble, <hi>He is a Brother born for adverſity.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="7" facs="tcp:104470:5"/>
+            <p>In the following diſcourſe I ſhall en<g ref="char:EOLhyphen"/>deavour to draw a true Copy from this original, but more large, that its beau<g ref="char:EOLhyphen"/>ties may be more diſplay'd to your view; and that I may not miſs in the principal ſtroaks, I ſhall keep within the lines of the Text.</p>
+            <list>
+               <item>1. I ſhall deſcribe that love which conſtitutes a true Friend.</item>
+               <item>2. I ſhall repreſent thoſe admirable Properties of an immutable conſtancy of affection and a generous faithfulneſs in a time of adverſity, which complete and adorn him.</item>
+               <item>3. I ſhall review the draught in ſome uſeful reflections.</item>
+            </list>
+            <p n="1">1. I begin to deſcribe that Love, which frames and conſtitutes a true friend. It muſt be premis'd, that I do not here conſider a Friend in that large Senſe, wherein the vulgar apply the Name to any Neighbour or Acquain<g ref="char:EOLhyphen"/>tance, that is not an Enemy; but in the ſtricteſt Senſe, as he is denominated ſuch from that particular vertue, which we
+<pb n="8" facs="tcp:104470:6"/>properly call by the Name of Friend<g ref="char:EOLhyphen"/>ſhip; and of this I deſign to diſcourſe rather according to the Principles of our Religion, than the mean and imperfect Notions of the antient Moraliſts. That this friendſhip is a genuine Off-ſpring of Love, is too evident to need a proof; and what kind or ſort of love it is, which properly aſſumes the form and name of Friendſhip, we ſhall eaſily diſcover, by obſerving ſome of thoſe modifications whereby the great and eminent grace of Chriſtian Charity, brancheth it ſelf in<g ref="char:EOLhyphen"/>to a great variety of particular Virtues, and among the reſt into this of Friend<g ref="char:EOLhyphen"/>ſhip: Such are the various objects a<g ref="char:EOLhyphen"/>bout which it is converſant; the diffe<g ref="char:EOLhyphen"/>rent degrees to which it is advanced, and the ſeveral good Offices in which it is imployed: In a diſtinct view of theſe we ſhall diſcern, how love is ſhap'd and determined into the Specifick form of Friendſhip.</p>
+            <p n="1">1. We obſerve that Love takes up various forms and names, from the va<g ref="char:EOLhyphen"/>rious
+<pb n="9" facs="tcp:104470:6"/>object to which it is addreſſed, as the Sea takes different Names from the ſeveral ſhoars it ſalutes. Thus Love, as it looks upward to Superiors is piety to a Parent, duty to a Governour, and gratitude to a Benefactor; as it looks downward on Inferiors, it becoms mer<g ref="char:EOLhyphen"/>cy to an Offender, charity to the Indi<g ref="char:EOLhyphen"/>gent, and pitty to the Diſtreſſed; as it looks round about on equals, we call it kindneſs; and if among theſe it meets with any fitly qualifi'd to reciprocate the <hi>Offices</hi> of kindneſs, it becomes <hi>Friendſhip.</hi>
+            </p>
+            <p>The principal qualification which fits a Perſon to become an Object of Friendſhip, is moral goodneſs, eſpe<g ref="char:EOLhyphen"/>cially, that he be competently indued with probity and integrity, with true wiſdom and courage, with ingenuity and Modeſty, with meekneſs and humi<g ref="char:EOLhyphen"/>lity, with a large Soul and a tender Heart, with a pleaſant Temper and a cheerful Spirit; for if theſe diſpoſitions be want<g ref="char:EOLhyphen"/>ing, either we ſhall not love, or our love muſt be call'd by ſome other name
+<pb n="10" facs="tcp:104470:7"/>than friendſhip. Yet this is not all, for there will be farther requiſite ſuch a combination of external Circumſtances, as may fit a Perſon for maintaining an actual intercourſe of Friendſhip. For tho we cannot but love and honour e<g ref="char:EOLhyphen"/>very vertuous Man we ſee and hear of, yet we contract our Friendſhips only with thoſe who are plac'd within the Sphere of our acquaintance, who are moſt like us in age, temper and condi<g ref="char:EOLhyphen"/>tion of Life; who may be moſt nearly adapted to us as a ſecond ſelf, and with whom we may have the moſt frequent, intimate, and delightful, as well as the moſt uſeful converſation.</p>
+            <p>It may be neceſſary to add, that tho Friendſhip doth thus contract our Love to a few ſelect Objects, yet it will no way impair or hinder the great Duty of Chriſtian Charity, or make any Schiſms or Factions among Chriſtian Brethren; for Chriſtian Charity can, like the Sun, ſhine on all Mankind, tho it ſtrike on ſome with a more direct and warmer
+<pb n="11" facs="tcp:104470:7" rendition="simple:additions"/>Ray; or like a well-drawn Picture, it can caſt a look on all about it, not over<g ref="char:EOLhyphen"/>looking an Enemy or a Stranger, tho it may have a peculiar aſpect for a Friend, who is ſituated in the fitted Place and diſtance to it. The great Apoſtle ſup<g ref="char:EOLhyphen"/>poſeth a different communication of Love, in that advice,<note place="margin">6 Gal. 10.</note> 
+               <hi>As we have opportu<g ref="char:EOLhyphen"/>nity let us do good to all men, eſpecially to thoſe who are of the houſhold of Faith.</hi> And with parity of reaſon we may determine, that we may be differently affected to<g ref="char:EOLhyphen"/>ward our? Brethren of the ſame houſ<g ref="char:EOLhyphen"/>hold, as they differently excel in Chri<g ref="char:EOLhyphen"/>ſtian Virtues, and as Circumſtances con<g ref="char:EOLhyphen"/>ſpire to make us a fitter opportunity for maintaining an Intercourſe of Friend<g ref="char:EOLhyphen"/>ſhip with them.</p>
+            <p>We obſerve alſo that Love aſ<g ref="char:EOLhyphen"/>umes different ſhapes from the diffe<g ref="char:EOLhyphen"/>rent degrees to which it is advanced; and thus that Love which in a remiſs degree is but ordinary kindneſs and common civility, is by higher degrees exalted up into the fervour of Friend<g ref="char:EOLhyphen"/>ſhip. The Love of Friendſhip cannot
+<pb n="12" facs="tcp:104470:8"/>but be thus intenſely great, it being founded on true Vertue; which is the moſt excellent kind of goodneſs, and the higheſt incentive of Love; it being al<g ref="char:EOLhyphen"/>ſo contracted to a few, and mutually reflected, all which will conſpire to in<g ref="char:EOLhyphen"/>creaſe its ardors. And we can ſuppoſe nothing leſs ſufficient to transform friends into ſo near a likeneſs, to incline them to one another with ſo paſſionate an affection, to yield them ſo delight<g ref="char:EOLhyphen"/>ful a complacency in their mutual Soci<g ref="char:EOLhyphen"/>ety, or to ingage them in ſo many ha<g ref="char:EOLhyphen"/>zards and hardſhips in ſerving each o<g ref="char:EOLhyphen"/>thers Intereſts. The Philoſophy of the Antients deſcribes this Love of Friend<g ref="char:EOLhyphen"/>ſhip in ſuch tranſcendent heights, as if it could not only mingle the concernments of Friends in a common Intereſt, but al<g ref="char:EOLhyphen"/>ſo unite their Souls into one Perſon. And the account we have of it from the Holy Scriptures will little abate the <hi>Hy<g ref="char:EOLhyphen"/>perbole; Solomon</hi> brings a Friend as near as a Brother in the Text; and elſewhere tells us,<note place="margin">18 Pr. 24.</note> that he will <hi>ſtick cloſer than a
+<pb n="13" facs="tcp:104470:8"/>Brother. David</hi> profeſſeth that <hi>Jonathans</hi> friendſhip to him was <hi>wonderful,</hi>
+               <note place="margin">2 Sam. 2.26. 13 Deu. 6.</note> 
+               <hi>paſſing the love of Women.</hi> And God himſelf, in cautioning <hi>Iſrael</hi> againſt the enticements of thoſe who were like to have the high<g ref="char:EOLhyphen"/>eſt aſcendent over them placeth a Friend in the higheſt rank, above a Brother, or Son, or Daughter, or the Wife of the Boſom, and calls him, <hi>a Friend which is even as thy own Soul.</hi>
+               <note place="margin">41 Iſ. 8. 33 Ex. 11.</note> And hence it is, that God expreſſeth his ſingular love to <hi>A<g ref="char:EOLhyphen"/>braham</hi> and <hi>Moſes,</hi> by calling them Friends; and by the ſame Name alſo, the incom<g ref="char:EOLhyphen"/>prehenſible height of our Bleſſed Savi<g ref="char:EOLhyphen"/>ours love to his Church, is ſometimes expreſſed in the <hi>Canticles</hi> and in the New <hi>Testament,</hi>
+               <note place="margin">5. Cant. 1, 15. John 14, 15.</note>
+            </p>
+            <p>And I may add, tho our bleſſed Lord hath, by a new Commandment, advan<g ref="char:EOLhyphen"/>ced the common love of Chriſtians, ſo far above all that was practiſed among <hi>Jews</hi> or <hi>Gentiles,</hi> as to become the diſtin<g ref="char:EOLhyphen"/>guiſhing Character of all his Diſciples; yet ſtill we muſt allow Chriſtian friend<g ref="char:EOLhyphen"/>ſhip to ſuperadd as much to Chriſtian
+<pb n="14" facs="tcp:104470:9"/>love, as common friendſhip us'd to do to the love of Nature. If therefore St. <hi>Peter</hi> exhorts all Chriſtians to have <hi>fer<g ref="char:EOLhyphen"/>vent Charity</hi> among themſelves, how in<g ref="char:EOLhyphen"/>tenſely great muſt be the love of Chri<g ref="char:EOLhyphen"/>ſtain Friends?</p>
+            <p n="3">3. We obſerve farther,<note place="margin">1 Pet. 4. S.</note> that Love takes up various Names from the varie<g ref="char:EOLhyphen"/>ty of good Offices, in which it is im<g ref="char:EOLhyphen"/>ploy'd; for as it bears injuries, we call it Meekneſs, and as it forgives them we call it Mercy; as it pitties the diſtreſſed we call it Compaſſion, and as it relievs them we call it Charity; and when be<g ref="char:EOLhyphen"/>ſide all other Offices, it attends to the intimate privacies and peculiar concern<g ref="char:EOLhyphen"/>ments of a Friend, we call it Friend<g ref="char:EOLhyphen"/>ſhip. The power of Friendſhip is e<g ref="char:EOLhyphen"/>qual to its love, and as <hi>this</hi> includs all in<g ref="char:EOLhyphen"/>ferior degrees, and exceeds them too, ſo will <hi>that</hi> perform all common kind<g ref="char:EOLhyphen"/>neſſes, and outdo them alſo. It would be ſtrange indeed, if that Love which can ſhew mercy to an Enemy, pitty to a Stranger, and kindneſs to a Neighbour,
+<pb n="15" facs="tcp:104470:9"/>ſhould not be ready to do as much and more for a Friend.</p>
+            <p>True friendſhip is the moſt officious thing in the World, it will diſdain no Offices as too mean, decline none as too difficult; it will not only take, but ſeek all opportunities of doing good, and reward it ſelf with the delights and plea<g ref="char:EOLhyphen"/>ſures of ſuch kind employments. It makes but one exception to this general rule, that it be put on no Services incon<g ref="char:EOLhyphen"/>ſiſtent with that Vertue, on which its very life and being depends. It will engage a Man to do any thing for his Friend, but to commit a ſin; to follow him into any danger, but into no Vice. And therefore, when <hi>Pericles</hi> deſir'd his Friend to bear a falſe Teſtimony for him, and he conſented to ſerve him <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> He is juſtly cenſur'd by the Moraliſt, for coming too near the Al<g ref="char:EOLhyphen"/>tar. And in a like caſe the Oratour cen<g ref="char:EOLhyphen"/>ſures the ill conduct of thoſe, who were betrayed by their Friendſhips, into Fa<g ref="char:EOLhyphen"/>ctions and Conſpiracies againſt the <hi>Com<g ref="char:EOLhyphen"/>mon-wealth.</hi>
+            </p>
+            <pb n="16" facs="tcp:104470:10"/>
+            <p>But beſide all other common Offices of Love, Friendſhip hath its own pro<g ref="char:EOLhyphen"/>per Province, within which it performs ſome peculiar Offices, which are im<g ref="char:EOLhyphen"/>practicable to any other love.</p>
+            <p>Every Man is conſcious of ſome con<g ref="char:EOLhyphen"/>cernments which lie deepeſt and cloſeſt to him, which are too great for his own thoughts to manage, which yet fall un<g ref="char:EOLhyphen"/>der the cognizance of no Relation or Society but this of Friendſhip. He may have ſome ſecreets too big for his own Boſom, which he can no where lodge with ſafety, but in the breaſt of a Friend; He may have ſome deſigns fit only to be intruſted to the ſincereſt Friendſhip; He may have ſome Infirmities, which he dare not expoſe to any ſeverer eye than that of a Friend, He may have ſome in<g ref="char:EOLhyphen"/>ward wounds, which can bear no air or touch, but the ſofteſt breath and gen<g ref="char:EOLhyphen"/>tleſt hand of a Friend; He may need ſuch caution or advice, ſuch comfort or aſſiſtance, as none could, or would give but a faithful Friend.</p>
+            <pb n="17" facs="tcp:104470:10"/>
+            <p>In ſuch caſes Friendſhip diſcovers its own proper excellency and uſefulneſs, in providing a ſafe Cloſet for our choi<g ref="char:EOLhyphen"/>ceſt ſecrets, a Soveraign balm for our deepeſt wounds, in reſolving our doubts, correcting our errors, advi<g ref="char:EOLhyphen"/>ſing our affairs, communicating in our moſt ſecret joys to double them, and in our moſt ſilent ſorrows to leſſen them, and performing all this with ſuch propenſneſs and ſincerity, that even ſelf-love could hardly equal it. Such kind Offices <hi>Job</hi> expected of his Friends, but in vain, when he cryed out, <hi>To him that is afflisted pity ſhould be ſhew'd him of his Friends;</hi>
+               <note place="margin">6. Job. 14. 19 Job 21.</note> 
+               <hi>Have pity upon me, have pity up<g ref="char:EOLhyphen"/>on me, O my Friends! For the Hand of God hath touched me.</hi> Such alſo our wiſe man aſſerts in ſeveral Proverbs, <hi>Faithful are the wounds of a Friend:</hi>
+               <note place="margin">27. Prov. 6.9.17.</note> 
+               <hi>As Ointment and Perfumes rejoyce the Heart, ſo doth the ſweetneſs of a Mans Friend by hearty Coun<g ref="char:EOLhyphen"/>ſel, As Iron ſharpneth Iron, ſo a Man ſharp<g ref="char:EOLhyphen"/>neth the Countenance of his Friend.</hi> Thus far I have deſcrib'd a Friend by that
+<pb n="18" facs="tcp:104470:11"/>principle of Love, which conſtitutes him ſuch; and that his inward frame might be more expoſed to your view, I have deſcribed his love alſo, by the ſelect Objects to which it is addreſſed, the eminent degrees to which it is ex<g ref="char:EOLhyphen"/>alted, and the moſt uſeful Offices in which it is imploy'd.</p>
+            <p n="2">2. I proceed to repreſent thoſe ad<g ref="char:EOLhyphen"/>mirable properties of a true Friend, which complete and adorn him; they are chiefly theſe two mentioned in the Text: An immutable conſtancy of af<g ref="char:EOLhyphen"/>fection, and a generous faithfulneſs in a time of Adverſity.</p>
+            <p n="1">1. A true Friend is immutably con<g ref="char:EOLhyphen"/>ſtant in his affections, <hi>He will love always or at all times.</hi> The contract of Friend<g ref="char:EOLhyphen"/>ſhip is ſo ſolemn and ſacred, that a Friend may not violate it, if he would, and ſo uſeful and pleaſant, that he would not, if he might, break this Bond aſun<g ref="char:EOLhyphen"/>der, or caſt away this Cord of Love from him.</p>
+            <pb n="19" facs="tcp:104470:11"/>
+            <p>The ſlight friendſhips of the vulgar are indeed mutable and uncertain, as that fickle humor or fortune is, on which they depend: but that friendſhip which is built on ſolid Vertue, condu<g ref="char:EOLhyphen"/>cted with true Wiſdom, and fixt in the ſtrongeſt inclinations or Love, cannot but be permanent and pepetual. Such a friendſhip is ſeated too deep to be at all varied with that variety of Circum<g ref="char:EOLhyphen"/>ſtances, which happen without, for as a change of Fortune, like a change of Garments, will make no alteration in the Man, ſo neither will it in the Friend; and he who did not at firſt love his Friend for the ſake of his good fortune, will not afterwards plead the want of it, for a forfeiture or diſcharge of his Friendſhip. If therefore one Friend be advanced in proſperity, he will reach out a kind Hand to raiſe up the o<g ref="char:EOLhyphen"/>ther to him, or ſtoop himſelf down to his level, but he will never think him<g ref="char:EOLhyphen"/>ſelf too great for that friendſhip, which is it ſelf the greateſt thing in the world.
+<pb n="20" facs="tcp:104470:12"/>Likewiſe, if a worthy Friend fall into diſgrace or diſtreſs, though this may vary the Offices of Friendſhip, yet it will not its nature; it may excite pity and compaſſion, but no ſlight or con<g ref="char:EOLhyphen"/>tempt, it will rather by irritation heigh<g ref="char:EOLhyphen"/>ten the love of Friendſhip, than abate or extinguiſh it.</p>
+            <p>It is true, that the external Circum<g ref="char:EOLhyphen"/>ſtances, which at firſt invited a Friend<g ref="char:EOLhyphen"/>ſhip, may afterwards ſo varie, as to incommode and interrupt its inter<g ref="char:EOLhyphen"/>courſe, by long diſtance, frequent ab<g ref="char:EOLhyphen"/>ſence, different affairs, <hi>&amp;c.</hi> But theſe things are too ſlight to diſſolve that Bond, which even the ſtroak of death can ſcarce cut aſunder. Sometimes al<g ref="char:EOLhyphen"/>ſo Friendſhip may miſtake its object, and addreſs to a Perſon, who afterwards proves unworthy and uncapable of the Correſpondence; in which caſe a friend is compared by <hi>Plutarch,</hi> to one who hath taken unwholſom food into his Sto<g ref="char:EOLhyphen"/>mach, which he can neither caſt up without pain, nor retain without dan<g ref="char:EOLhyphen"/>ger;
+<pb n="21" facs="tcp:104470:12"/>and though in ſuch a caſe, a friend may lawfully Sue out a Divorſe, yet his ingenuity will diſpoſe him rather de<g ref="char:EOLhyphen"/>cently to untie, than roughly to break aſunder the Bond of his friendſhip. It muſt be confeſſed alſo, that the beſt and wiſeſt friends are but Men, ſubject to many ſurprizes and infirmities, which may too much impair and obſtruct their friendſhips; who yet; if true friends can be very ingenious in excuſing, very pa<g ref="char:EOLhyphen"/>tient in bearing, and very ready in for<g ref="char:EOLhyphen"/>giving the faults one of another; and if their friendſhips be of the right kind, they will be able, not only to endure theſe diſcouragements, but alſo to ſur<g ref="char:EOLhyphen"/>vive them with advagtage; like Trees, which after a ſhaking wind take the deeper root; or like skillful Muſick, which can improve the greateſt diſ<g ref="char:EOLhyphen"/>cords into the moſt graceful and de<g ref="char:EOLhyphen"/>lightful Harmony. And though <hi>Solomon</hi> informs us farther, that there are <hi>froward Men who will ſow ſtrife,</hi>
+               <note place="margin">16. Pr. 28.</note> 
+               <hi>and whiſ<g ref="char:EOLhyphen"/>perers who will ſeparate chief friends;</hi> by
+<pb n="22" facs="tcp:104470:13"/>whoſe accurſed practices the Devil en<g ref="char:EOLhyphen"/>deavours to deſtroy the greateſt good and delight of Mankind; yet they do not eaſily or often prevail, for true friendſhip will not be ſoon tinctured with jealouſie, nor lightly yield up a Friend to the malice of a detractor, but firſt or laſt, the truth of friendſhip will triumph over the falſhood of the ca<g ref="char:EOLhyphen"/>lumnie. After all theſe vain attempts, to vanquiſh the conſtancy of a true friendſhip, we cannot ſuſpect that it will tire or wear out with length of time. So litle is it ſubject to decay, that like our moſt generous liquors, it will gain ſtrength and ſweetneſs by Age. A friend, like a garment, becomes more fit and ſuitable by daily uſe: And that Ce<g ref="char:EOLhyphen"/>ment of Love, which time hath ſeaſo<g ref="char:EOLhyphen"/>ned and approved, is the ſtrongeſt and moſt durable. Wherefore our wiſe Man adviſeth us by no means, to for<g ref="char:EOLhyphen"/>ſake an approved Friend, eſpecially not a Fathers Friend, for the older he is, always the better.<note place="margin">27 Pr. 10.</note>
+            </p>
+            <pb n="23" facs="tcp:104470:13"/>
+            <p n="2">2. The other property of a true friend, is his generous faithfulneſs in the moſt needful time of trouble; he is <hi>a Brother born for adverſity.</hi> A true friend is, by many excellent qualities, ſo fitly fram'd and provided for a ſeaſon of ad<g ref="char:EOLhyphen"/>verſity, that he is not only able to en<g ref="char:EOLhyphen"/>dure it, but he will ſtick the cloſer, un<g ref="char:EOLhyphen"/>der the adverſe aſſaults of Fortune; and by a generous antiperiſtaſis, his love will increaſe under the diſcouragements of <hi>adverſity.</hi> It was a true obſervation which <hi>Sylla</hi> made to <hi>Pompey,</hi> That more did adore the Riſing than the Setting Sun. And <hi>Solomon</hi> made the like obſervation, <hi>That wealth maketh many Friends,</hi>
+               <note place="margin">19. Prov. 4.7.</note> 
+               <hi>but the Poor is ſeparated from his Neighbour. All the Brethren of the Poor do hate him, how much more do his Friends go far from him; he purſueth them with words, yet they are want<g ref="char:EOLhyphen"/>ing to him,</hi> There are Friends enough to be found, who are born for proſpe<g ref="char:EOLhyphen"/>rity, who will feed on our plenty, and ſhare in our joys; but it is the moſt de<g ref="char:EOLhyphen"/>plorable fate of adverſity, that when
+<pb n="24" facs="tcp:104470:14"/>it puts us under the greateſt need of friends, it often put them fartheſt from us. While proſperity ſhines on a Man, crowds of vulgar inſects will flutter a<g ref="char:EOLhyphen"/>bout him, to bask in its heat, and ſuck the warm influences of its raies; but thoſe friends are too excellent to be ma<g ref="char:EOLhyphen"/>ny, who can ſtand firm, and ſtick cloſe to us, amidſt the ſtorms and tempeſts of adverſity. The wiſeman tells us, that he who is become a Brother in the bonds of friendſhip, will ſtick cloſer than he who is ſo, only in the bonds of Nature; and therefore he adviſeth us, <hi>in the day of our Calamity,</hi>
+               <note place="margin">27. Pr. 10.</note> 
+               <hi>to go rather to a Friend, than to the Houſe of a Brother, for better is</hi> ſuch <hi>a Neighbour,</hi> whom friend<g ref="char:EOLhyphen"/>ſhip hath made <hi>near, than a Brother, who</hi> in his affections <hi>is farther off.</hi> It is the peculiar honour of a true friend, that no intereſt can bribe him, nor dangers af<g ref="char:EOLhyphen"/>fright him; that he hath courage e<g ref="char:EOLhyphen"/>nough to make any attempt, and forti<g ref="char:EOLhyphen"/>tude enough to bear any hardſhips for an avowed friend. <q>Give me a friend,
+<pb n="25" facs="tcp:104470:14"/>ſaith <hi>Seneca,</hi> for whom I may die, whom I may follow into baniſhment,<note place="margin">De amicum pro quo ma<g ref="char:EOLhyphen"/>ri poſſim, quem in ex<g ref="char:EOLhyphen"/>itum ſe<g ref="char:EOLhyphen"/>quar, cujus me morti opponam &amp; impendam. <hi>15. John 13.</hi>
+                  </note> for the reſcue of whoſe Life I may expoſe my own.</q> And our Bleſſed Saviour ſup<g ref="char:EOLhyphen"/>poſeth the love of friendſhip to be ſo generous, that <hi>a Man may,</hi> even, <hi>lay down his life for a Friend.</hi> And ſurely, that love which is ſtronger than Death, will never boggle at petty misfortunes. No, <hi>Solomon</hi> tells us, That <hi>many waters cannot quench Love,</hi>
+               <note place="margin">8. Cant. 7.</note> 
+               <hi>neither can the Floods drown it,</hi> and leſſer ſprinklings will but inflame it. True Friendſhip, like that Vertue on which it is founded, will grow brighter and ſtronger, by the conflicts of adverſity, and increaſe its Love as fire doth its heat, by the ſharp<g ref="char:EOLhyphen"/>neſs of the ſeaſon. To ſee a worthy Friend bowing under the weight of an unjuſt oppreſſion, will ſtrangely inſpi<g ref="char:EOLhyphen"/>rit a true generous friendſhip; it will force modeſty to ſpeak in vindication of his innocence, and humility to contend for his juſt praiſes, it will arm the time<g ref="char:EOLhyphen"/>rous in his defence, and inſtruct the ru<g ref="char:EOLhyphen"/>deſt
+<pb n="26" facs="tcp:104470:15"/>Tongue into an eloquent advo<g ref="char:EOLhyphen"/>cate, ſuch is the admirable force of friendſhip, that it will raiſe a Man in the Service of a Friend above what he could or would do for himſelf, yea, oftentimes to poſtpone his own intereſts to thoſe of a Friend, and expoſe him<g ref="char:EOLhyphen"/>ſelf to ſhield a Friend from an approa<g ref="char:EOLhyphen"/>ching danger. Such a friend was <hi>Jona<g ref="char:EOLhyphen"/>than</hi> to <hi>David,</hi> whom neither the hatred of a Father, nor the flattery of a crown could corrupt, who would not yield up his friend, though <hi>Saul</hi> with armed fury, ſtorm'd the boſom which enter<g ref="char:EOLhyphen"/>tained him, nor would let go his friend<g ref="char:EOLhyphen"/>ſhip, tho he knew it would coſt him the reverſion of a Kingdom; but with an unſhaken reſolution he perſiſted to plead <hi>David's</hi> cauſe, tho to the preju<g ref="char:EOLhyphen"/>dice of his own, to advance his praiſe, though to his own diminution, and to ſecure his friend, though with the haz<g ref="char:EOLhyphen"/>zard of himſelf. Happy is the Man who is ſtrengthened with ſuch an alli<g ref="char:EOLhyphen"/>ance, and provided of ſo uſeful a ſup<g ref="char:EOLhyphen"/>port
+<pb n="27" facs="tcp:104470:15"/>for an evil day; who is ſecure of a faithful Friend to adhere to him, when all others forſake him, to condole with him, when others inſult over him, to plead his cauſe amidſt the loudeſt ca<g ref="char:EOLhyphen"/>lumnies, and ſolicit his intereſts when moſt deſperate and deplorable.</p>
+            <p>Having now finiſhed the draught I deſigned, tho with a much ruder Pen<g ref="char:EOLhyphen"/>cil than it deſerv'd, let us ſtand a while and review it in ſome uſeful reflecti<g ref="char:EOLhyphen"/>ons.</p>
+            <p n="1">1. If the face of a true friend be tru<g ref="char:EOLhyphen"/>ly repreſented in this Text, then the reverſe and oppoſite of this muſt needs be falſe and counterfeit. I ſhould not have made this reflection, but that I obſerve how the many <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as <hi>Plutarch</hi> calls the falſe Images and Counterfeits of friendſhip) do re<g ref="char:EOLhyphen"/>flect no ſmall diſgrace on this excellent Virtue. Such are the Mercenary friend<g ref="char:EOLhyphen"/>ſhips of the vulgar, who chooſe their friends as they do their cattle, the ſtron<g ref="char:EOLhyphen"/>geſt for labour, or the fatteſt for ſale,
+<pb n="28" facs="tcp:104470:16"/>who keep or part with their <hi>friends,</hi> as will make moſt for their intereſt; whoſe <hi>friendſhip</hi> is nothing elſe but traffick and commerce.</p>
+            <p>Such alſo are the vain <hi>friendſhips</hi> of fond Amoriſts, which ſpend themſelves in ſoft dalliances and imaginary delights; which can no more engage a wiſe and generous mind, than <hi>Sampſon</hi> could be fettered with the ropes and withs of his <hi>Daliah.</hi> Nay, ſome have not been a<g ref="char:EOLhyphen"/>fraid to prophane the ſacred name of <hi>friendſhip,</hi> by aſcribing it to the good Fellowſhip of Debauchery, to combi<g ref="char:EOLhyphen"/>bations of Fraud and Violence, or to conſpiracies of Faction and Treaſon: Such are indeed, like <hi>Simeon</hi> and <hi>Levi,</hi> Brethren in iniquity,<note place="margin">49. Gen. 5.6.</note> 
+               <hi>But oh my Soul, come not thou into their ſecrets, unto their aſſembly mine Honour be not thou united.</hi> But the moſt common and dangerous impoſter in <hi>friendſhip</hi> is the Flatterer, who like <hi>Jacob,</hi> appears in the dreſs of a Brother, and with a ſmooth voice ſupplants and betrays him; all whoſe officious Ad<g ref="char:EOLhyphen"/>dreſſes
+<pb n="29" facs="tcp:104470:16"/>are no better than the crafty arts of a Fowler, to allure and decoy a <hi>friend</hi> into a prey. But time will diſco<g ref="char:EOLhyphen"/>ver the falſe <hi>friend,</hi> at leaſt in a ſharp ſeaſon of adverſity, his diſguiſes of <hi>friendſhip</hi> will drop off, like withered Leaves at the approach of Winter.</p>
+            <p n="2">2. If ſo much be neceſſary to conſti<g ref="char:EOLhyphen"/>tute and compleat a true <hi>friend,</hi> we ſee reaſon enough why true <hi>friendſhip</hi> is ſo great a rarity in the world, ſome have thought it matter of complaint and wonder, that ſo excellent and uſeful a vertue, ſhould ſcarcely be met with a<g ref="char:EOLhyphen"/>ny where, but in the notional rules of Philoſophy, or the feigned examples of ſome imaginary Hyſtory: But it is not to be thought ſtrange, that what is moſt excellent and very difficult, ſhould be ſcarce and uncommon in the World. A vertuous <hi>friendſhip</hi> muſt needs be rare, when Vertue it ſelf is ſo. They are but few, whoſe Souls are refin'd with purity, adorn'd with modeſty, ſupplee with meekneſs, ſweetned with kind<g ref="char:EOLhyphen"/>neſs
+<pb n="30" facs="tcp:104470:17"/>and enlarged with goodneſs; which might render them capable of enter<g ref="char:EOLhyphen"/>taining ſo great a vertue. The moſt we may obſerve, are too ſelfiſh to love any beſides themſelves, too rugged in their tempers to admit of ſo cloſe an u<g ref="char:EOLhyphen"/>nion, too vain and humorſome to be conſtant, and too mean and abject of ſpirit to endure a tryal of adverſity: And hence it comes to paſs, that a <hi>true Friend</hi> is as greatly admired, and as rare<g ref="char:EOLhyphen"/>ly ſeen among us, as the <hi>Stoicks</hi> wiſe man was among the Philoſophers of old. Yet, if the vertues of our Reli<g ref="char:EOLhyphen"/>gion were as much in practice, as they might and ſhould be, <hi>friendſhips</hi> would eaſily reſult of themſelves; were every one but fit to be a <hi>Friend,</hi> nobody could be long without one. But alas! in our days, Chriſtian Charity is not only wi<g ref="char:EOLhyphen"/>thered in theſe upper Branches, but de<g ref="char:EOLhyphen"/>cays at the very root, and ſo little can we endure the ſtricteſt bond of <hi>friend<g ref="char:EOLhyphen"/>ſhip,</hi> that even the largeſt bond of peace can ſcarce contain us.</p>
+            <pb n="31" facs="tcp:104470:17"/>
+            <p n="3">3. Let us once more reflect on a <hi>true Friend, to behold in him that excellen<g ref="char:EOLhyphen"/>cy of worth, and thoſe endearing pro<g ref="char:EOLhyphen"/>perties which may juſtly recommend him to our embrace and imitation. How many and how eminent are the vertues which meet in the compoſition of a <hi>true Friend?</hi> To how many and important uſes will a <hi>true friendſhip</hi> ſerve? It is the ornament of our proſperity, and the relief of our adverſity, it ſweetens our ſorrows and our joys too, and is the moſt delightful ſolace of our lives: In a word, <hi>true friendſhip</hi> is the higheſt im<g ref="char:EOLhyphen"/>provement of humanity, and the grea<g ref="char:EOLhyphen"/>teſt advance of Chriſtian Charity we are capable of, in our preſent State. What greater vertue could I recommend, or what greater happineſs could I wiſh to you my <hi>dear Countrymen?</hi> than ſuch a mutual <hi>friendſhip,</hi> as would render our converſations wholeſom and ſecure, fruitful and pleaſant as that good Coun<g ref="char:EOLhyphen"/>try is, to which we are related. But who did ever diſpraiſe <hi>friendſhip?</hi> or would
+<pb n="32" facs="tcp:104470:18"/>refuſe a <hi>faithful Friend?</hi> It were well if e<g ref="char:EOLhyphen"/>very one were as willing to be a <hi>friend</hi> as to have one, and would be content to correſpond by that rule of equity. The wiſe Man gives,<note place="margin">18. Pr. 24.</note> That <hi>he who hath friends muſt ſhew himſelf friendly.</hi> And yet it would become a Chriſtian to do ſomewhat more, to importune others with the firſt addreſſes of his Love, and court them, if poſſible, into a League of <hi>friendſhip. Seneca</hi> thought every good Man ought to have a <hi>friend</hi> to exerciſe his <hi>friendſhip, ne tam magna Virtus jaceret, leſt ſo great a Virtue ſhould be neglected and lost in the world.</hi> It will much more concern us who are Chriſtians, to make and cheriſh amongſt us the trueſt <hi>friendſhip,</hi> becauſe it is the moſt eminent pitch of that <hi>Charity,</hi> which is the moſt eminent grace of our Religion. Some have been vainly prejudic'd againſt <hi>friendſhip,</hi> as if it were a <hi>forraign Virtue</hi> tranſplanted from the Schools of <hi>Philo<g ref="char:EOLhyphen"/>ſophy;</hi> but ſurely our holy inſtitutions which require our love to an Enemy
+<pb n="25" facs="tcp:104470:18"/>and a Stranger, cannot be ſuppoſed to diſregard a <hi>Friend;</hi> our religion which qualifies Perſons with the higheſt at<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>inments of Divine goodneſs, which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſiſts out <hi>friendſhips</hi> with the mighty aid <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f that <hi>Holy Spirit,</hi> who is the true God of love, which honours it with ſo many encomiums, and encourageth it with ſuch great rewards, can do more <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>an all the morality of the Antients to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eed and promote the nobleſt <hi>friend<g ref="char:EOLhyphen"/>ſhips.</hi> The Holy <hi>Jeſus</hi> the Author of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Religion had his beloved Diſciple, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d expreſſed a particular <hi>friendſhip</hi> to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>zarus</hi> and his Siſters. The Primitive Chriſtians did ſo abound in their <hi>friend<g ref="char:EOLhyphen"/>ſhips,</hi> that they ſeem'd to have no other <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd of love among them; inſomuch <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at the Heathens ſuſpected them to <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ry Philtrums and Charms about <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em, to beget ſuch ſtrong Indearments <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Affection. And, to add no more, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e have reaſon to conceive one part of <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e glorious happyneſs of Heaven, to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nſiſt in the moſt refined and exalted
+<pb n="26" facs="tcp:104470:19"/>
+               <hi>friendſhips</hi> of Angels and Saints mad<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perfect above, where the pooreſt <hi>Laz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rus</hi> reſts in the Boſom of the greateſt <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>brabam,</hi> and all cloſely unite in the ſam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> harmony of Love and Praiſe. God gra<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that we may ſo imitate their holy <hi>friend<g ref="char:EOLhyphen"/>ſhips</hi> here, that we may be admitted t<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their bleſt Society hereafter, throu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the merits of our Bleſſed Saviour, t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> greateſt and beſt of <hi>Friends,</hi> to who<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with the Almighty Father, and the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ternal Spirits of Grace, be Glory a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Honour; Praiſe and Thankſgiving, no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ever, <hi>Amen.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
